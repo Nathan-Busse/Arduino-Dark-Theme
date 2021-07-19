@@ -26,3 +26,4 @@ The newest version of the Arduino IDE makes creating custom themes trickier: you
 Make sure to make a back-up of the existing "theme" folder before replacing it for human error confrontations.
 
 
+![WhatsApp Image 2021-07-19 at 5 12 26 PM](https://user-images.githubusercontent.com/82398683/126183795-8129035b-470a-49be-a79c-49a1e48967ec.jpeg)
